@@ -49,6 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CBContext.cs" />
+    <Compile Include="Migrations\201903081519522_initialized.cs" />
+    <Compile Include="Migrations\201903081519522_initialized.Designer.cs">
+      <DependentUpon>201903081519522_initialized.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +65,11 @@
       <Project>{AE31017D-D7A2-4A37-8E0D-2E010C18B2DF}</Project>
       <Name>ClothBazar.Entities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201903081519522_initialized.resx">
+      <DependentUpon>201903081519522_initialized.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
