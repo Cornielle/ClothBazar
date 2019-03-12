@@ -107,3 +107,5 @@ C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.Web.cspro
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.Web.csproj.CopyComplete
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.dll
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Entities.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Entities.pdb
