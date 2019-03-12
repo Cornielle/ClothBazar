@@ -3,3 +3,4 @@ C:\Users\brian\source\repos\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csprojAssemblyReference.cache

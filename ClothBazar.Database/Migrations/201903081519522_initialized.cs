@@ -23,7 +23,6 @@ namespace ClothBazar.Database.Migrations
                     {
                         id = c.Int(nullable: false, identity: true),
                         Price = c.Decimal(nullable: false, precision: 18, scale: 2),
-                        ID = c.Int(nullable: false),
                         Name = c.String(),
                         Description = c.String(),
                         Category_ID = c.Int(),

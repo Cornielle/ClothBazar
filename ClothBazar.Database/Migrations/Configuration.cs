@@ -9,7 +9,7 @@ namespace ClothBazar.Database.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(ClothBazar.Database.CBContext context)

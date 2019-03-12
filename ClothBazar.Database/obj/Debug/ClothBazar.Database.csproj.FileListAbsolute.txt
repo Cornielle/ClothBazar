@@ -12,3 +12,5 @@ C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.CopyComplete
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.dll
 C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.Migrations.initialized.resources
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.GenerateResource.cache
