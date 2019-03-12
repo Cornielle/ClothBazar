@@ -109,3 +109,9 @@ C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.dll
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\obj\Debug\ClothBazar.pdb
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Entities.dll
 C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Entities.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Services.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Database.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Services.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Services.dll.config
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Database.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar\bin\ClothBazar.Database.dll.config

@@ -251,6 +251,8 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Category\Create.cshtml" />
+    <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Category\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -264,6 +266,10 @@
     <ProjectReference Include="..\ClothBazar.Entities\ClothBazar.Entities.csproj">
       <Project>{AE31017D-D7A2-4A37-8E0D-2E010C18B2DF}</Project>
       <Name>ClothBazar.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClothBazar.Services\ClothBazar.Services.csproj">
+      <Project>{DE14C54C-264E-49C4-ACB6-904A20D91B62}</Project>
+      <Name>ClothBazar.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

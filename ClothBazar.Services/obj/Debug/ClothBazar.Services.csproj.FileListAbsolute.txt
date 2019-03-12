@@ -1,0 +1,17 @@
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Services.dll.config
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Services.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Services.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Database.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Entities.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\EntityFramework.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Database.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Database.dll.config
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\ClothBazar.Entities.pdb
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\EntityFramework.xml
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\obj\Debug\ClothBazar.Services.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\obj\Debug\ClothBazar.Services.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\obj\Debug\ClothBazar.Services.csproj.CopyComplete
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\obj\Debug\ClothBazar.Services.dll
+C:\Users\brian\source\repos\ClothBazar\ClothBazar.Services\obj\Debug\ClothBazar.Services.pdb
